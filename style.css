@@ -4,7 +4,9 @@
 }
 
 body {
-    background-color: rgb(222, 216, 216);
+    background-color: rgb(26, 22, 22);
+    background: rgb(36,0,0);
+background: linear-gradient(90deg, rgba(36,0,0,1) 0%, rgba(138,11,11,1) 36%, rgba(255,0,78,1) 100%);
 }
 
 #banner {
@@ -13,7 +15,7 @@ body {
 
 h1{
     font-size: 50px;
-    color: rgb(209, 20, 33);
+    color: rgb(235, 48, 60);
     text-align: centeR;
     text-transform: uppercase;
 }
@@ -23,5 +25,5 @@ h1{
     font-size: 30px;
     margin: auto;
     text-align: center;
-    color: black;
+    color: rgb(235, 233, 233);
 }
