@@ -6,7 +6,7 @@
 body {
     background-color: rgb(26, 22, 22);
     background: rgb(36,0,0);
-background: linear-gradient(90deg, rgba(36,0,0,1) 0%, rgba(138,11,11,1) 36%, rgba(255,0,78,1) 100%);
+background: linear-gradient(90deg, rgba(36,0,0,1) 0%, rgba(138,11,11,1) 36%, rgb(197, 17, 47) 100%);
 }
 
 #banner {
